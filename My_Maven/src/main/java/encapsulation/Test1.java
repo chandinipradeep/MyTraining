@@ -9,8 +9,6 @@ public class Test1 {
 	{
 		this.name=name;
 		this.age=age;
-		
-		
 	}
 	
 	public void getData()
