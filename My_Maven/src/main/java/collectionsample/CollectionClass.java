@@ -1,6 +1,7 @@
 package collectionsample;
 
 import java.util.ArrayList;
+import java.util.Iterator;
 
 public class CollectionClass { 
 
@@ -50,6 +51,17 @@ public class CollectionClass {
 		
 		System.out.println(a2.isEmpty());
 		System.out.println(a1.isEmpty());
+		
+		//Iterator
+		Iterator itr=a.iterator();
+		while(itr.hasNext())
+		{
+			System.out.println(itr.next());
+			
+		}
+		itr.remove();
+		System.out.println(a);
+		
 		
 		
 	

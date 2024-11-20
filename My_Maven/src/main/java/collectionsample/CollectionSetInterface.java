@@ -30,8 +30,8 @@ public interface CollectionSetInterface {
 		
 //remove
 
-		s2.remove(1);
-    	System.out.println(s2);		
+//		s2.remove(1);
+//    	System.out.println(s2);		
 
 //removeAll
     	s1.removeAll(s1);
