@@ -1,0 +1,10 @@
+<suite name="My Test Suite">
+	<test name="My Test">
+		<classes>
+			<class name="TestNG.AnnotationExample">
+			</class>
+			<class name="TestNG.Priority">
+			</class>
+		</classes>
+	</test>
+</suite>

@@ -24,7 +24,7 @@ public class ExcelCode {
 		XSSFRow r=s.getRow(i); //method to get row from sheet
 		XSSFCell c=r.getCell(j); //method to get column
 		return c.getStringCellValue();  //method to fetch string value inside cell and return to main method
-		
+		 
 	}
 	
 	//to read integer data from excel

@@ -26,7 +26,7 @@ public class Customer {
 		else
 		{
 			System.out.println("Sorry !! No discount..");
-			System.out.println("Total amount : "+total);
+			System.out.println("Total amount : "+total); 
 			return total;
 			
 		}

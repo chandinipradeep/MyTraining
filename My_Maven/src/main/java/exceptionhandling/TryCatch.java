@@ -14,7 +14,7 @@ public class TryCatch {
 		{
 			int c=a/b;
 		}
-		catch(ArithmeticException e)
+		catch(ArithmeticException e) 
 		{ 
 			/*b=5;
 			int d=a/b;

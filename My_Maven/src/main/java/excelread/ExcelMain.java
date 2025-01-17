@@ -10,7 +10,7 @@ public class ExcelMain {
 		String s=ExcelCode.readStringData(1, 0);
 		System.out.println(s);
 		double d=ExcelCode.readIntegerData(1, 1);
-		System.out.println(d);
+		System.out.println(d); 
 		
 		
 

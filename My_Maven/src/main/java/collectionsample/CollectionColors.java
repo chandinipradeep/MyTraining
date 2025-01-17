@@ -29,6 +29,8 @@ public class CollectionColors {
 			System.out.println(it.next());
 			
 		}
+		it.remove();
+		System.out.println(a);
 		
 		
 

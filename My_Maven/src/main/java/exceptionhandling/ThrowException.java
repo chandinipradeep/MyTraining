@@ -15,7 +15,7 @@ public class ThrowException {
 		else	
 		{ 
 			System.out.println("Eligible");
-		}
+		} 
 	}
 
 	public static void main(String[] args) {

@@ -4,7 +4,7 @@ public class ExceptionSample {
 	
 	public void test(int age) throws LicenseException
 	{
-		if(age<18)
+		if(age<18) 
 		{
 			throw new LicenseException("Not Eligible");
 		}

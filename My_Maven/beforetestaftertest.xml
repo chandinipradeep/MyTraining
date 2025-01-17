@@ -1,0 +1,12 @@
+<suite name="My Test Suite">
+	<test name="BeforeAfterTestCase1">
+		<classes>
+			<class name="TestNG.BeforeTestAndAfterTest" />
+		</classes>
+	</test>
+	<test name="BeforeAfterTestCase2">
+		<classes>
+			<class name="TestNG.BeforeTestAndAfterTest" />
+		</classes>
+	</test>
+</suite>
